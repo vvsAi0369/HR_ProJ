@@ -1,5 +1,13 @@
 # HR Analytics Dashboard (Power BI)
 
+## Dashboard Preview
+
+![Dashboard Preview](assets/final_analysis.png)
+
+## Overview
+This project presents an interactive HR Analytics Dashboard built in Power BI to analyze employee attrition, workforce demographics, compensation metrics, and job satisfaction.
+# HR Analytics Dashboard (Power BI)
+
 ## Overview
 
 This project presents an interactive HR Analytics Dashboard built in Power BI to analyze employee attrition, workforce demographics, compensation metrics, and job satisfaction. The dashboard provides actionable insights to support employee retention strategies and HR decision-making.
